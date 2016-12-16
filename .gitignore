@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+nohup.out
+*.ipynb
+.idea
+*/__pycache__ 
